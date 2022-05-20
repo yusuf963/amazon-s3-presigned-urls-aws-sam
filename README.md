@@ -1,4 +1,5 @@
 # S3 presigned URLs with SAM, auth and sample frontend
+this is cool
 
 This example application shows how to upload objects to S3 directly from your end-user application using Signed URLs.
 
